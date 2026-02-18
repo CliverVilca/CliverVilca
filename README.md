@@ -1,36 +1,34 @@
-# <p align="center">✨ Cliver Vilca | Full Stack Developer ✨</p>
+# <p align="center">✨ Cliver Vilca | Full Stack Solutions Architect ✨</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Cliver%20Vilca&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Building%20the%20future,%20one%20line%20at%20a%20time&descAlignY=51&descSize=20" />
+  <img src="./assets/image%20copy%206.png" width="100%" alt="Cliver Vilca Banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=7aa2f7&center=true&vCenter=true&width=500&lines=¡Hola!+Bienvenido+a+mi+perfil;Desarrollador+Full+Stack+Passion;Especialista+en+Laravel+y+Vue.js;Entusiasta+de+la+IA+y+Sistemas;Si+puedes+imaginarlo,+puedo+programarlo" alt="Typing SVG" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=15" alt="github trophies" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=7aa2f7&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Solutions;Expert+in+Laravel+Ecosystem+%26+Vue.js;Optimizing+High-Performance+Architectures;Artificial+Intelligence+Informer" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 Sobre Mí
+### 🚀 Perfil Profesional
+
 <table align="center">
   <tr>
-    <td width="55%" valign="top">
-      Soy un desarrollador apasionado por crear soluciones robustas y escalables. Me encanta el ecosistema de Laravel y la potencia de Vue en el frontend. Siempre estoy explorando nuevas fronteras como la Inteligencia Artificial y la optimización de sistemas.
+    <td width="60%" valign="top">
+      Desarrollador <b>Full Stack</b> con amplia experiencia en la creación de ecosistemas digitales robustos. Mi metodología se basa en los principios <b>SOLID</b> y el diseño centrado en la escalabilidad. Me especializo en transformar problemas complejos de negocio en aplicaciones eficientes y seguras.
       <br/><br/>
-      - 📍 **Ubicación:** Puno, Perú 
-      - 🌐 **Portfolio:** <a href="https://clivervilca.dev">clivervilca.dev</a>
-      - 💬 **Expertiz:** PHP, JavaScript, Python y Arquitecturas Web.
+      <b>💡 Core Competencies:</b>
+      <ul>
+        <li>Arquitecturas de Microservicios con Laravel.</li>
+        <li>Interfaces de usuario reactivas y modulares (Vue.js / Tailwind).</li>
+        <li>Automatización y despliegue continuo (CI/CD).</li>
+        <li>Integración de machine learning para optimización de procesos.</li>
+      </ul>
     </td>
-    <td width="45%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliverVilca&layout=compact&theme=tokyonight&hide_border=true" />
+    <td width="40%" valign="center" align="center">
+      <img src="./assets/image%20copy%202.png" width="90%" style="border-radius: 15px;" />
+      <br/>
+      <small><i>"El código es mi tripulación hacia la excelencia."</i></small>
     </td>
   </tr>
 </table>
@@ -38,28 +36,39 @@
 ---
 
 ### 💻 Arsenal Tecnológico
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,python,nodejs,mysql,docker,git,linux,vscode,postman,tailwind,webstorm,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,python,nodejs,mysql,docker,git,linux,aws,vscode,postman,tailwind,webstorm,figma,mongodb&perline=9" />
 </p>
 
 ---
 
-### 📂 Proyectos Destacados
-<p align="center">
-  <a href="https://github.com/CliverVilca/ACTAS-SEARCH-SYSTEM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=ACTAS-SEARCH-SYSTEM&theme=tokyonight&show_owner=true" />
-  </a>
-  <a href="https://github.com/CliverVilca/Reconocimiento-Placas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=Reconocimiento-Placas&theme=tokyonight&show_owner=true" />
-  </a>
-</p>
+### 📂 Proyectos de Alto Impacto
+
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CliverVilca/ACTAS-SEARCH-SYSTEM">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=ACTAS-SEARCH-SYSTEM&theme=tokyonight&show_owner=false" />
+      </a>
+      <p><i>Motor de búsqueda avanzado para gestión de actas.</i></p>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CliverVilca/Reconocimiento-Placas">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=Reconocimiento-Placas&theme=tokyonight&show_owner=false" />
+      </a>
+      <p><i>Sistema inteligente de visión computacional.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Análisis de Actividad
+### 📊 Análisis de Ingeniería y Productividad
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CliverVilca&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CliverVilca&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CliverVilca&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CliverVilca&theme=tokyonight&hide_border=true&ring=7aa2f7&fire=bb9af7" />
 </p>
 
 <p align="center">
@@ -68,17 +77,18 @@
 
 ---
 
-### 📫 Conectemos
+### 📫 Networking y Colaboración Profesional
+
 <p align="center">
-  <a href="https://linkedin.com/in/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" /></a>
-  <a href="https://twitter.com/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="40" width="40" /></a>
-  <a href="mailto:tu-correo@ejemplo.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+  <a href="mailto:cliver.vilca@ejemplo.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CliverVilca&label=Visitas%20al%20Perfil&color=7aa2f7&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=CliverVilca&label=Auditoría%20de%20Perfil&color=7aa2f7&style=flat-square" />
 </p>
 
 <p align="center">
-  <i>"El código es mi lenguaje, la resolución de problemas mi pasión."</i>
+  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=50&section=footer&text=Innovación%20|%20Calidad%20|%20Escalabilidad&fontSize=16" />
 </p>
