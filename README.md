@@ -4,12 +4,21 @@
   THEME: TOKYONIGHT DARK / GLASSMORPHISM
 -->
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=spirit&color=gradient&height=200&section=header&text=CLIVER%20VILCA&fontSize=75&animation=fadeIn&fontAlignY=40&desc=%F0%9D%95%BC%F0%9D%96%B4%F0%9D%96%BA%F0%9D%97%85%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%AE%F0%9D%97%85%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%B0%F0%9D%97%81%F0%9D%96%BA%F0%9D%97%81%F0%9D%97%8B%F0%9D%97%82%F0%9D%96%BA%20%F0%9D%96%B5%F0%9D%96%BA%F0%9D%97%8C%F0%9D%96%B4%F0%9D%96%B7&descAlignY=62&descSize=18&fontColor=ffffff&font=Outfit" width="100%" />
+  <!-- BANNER LOCAL: Sube tu banner personalizado a assets/banner.png -->
+  <img src="assets/banner.png" width="100%" alt="Cliver Vilca Banner" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=750&height=40&lines=%E2%9E%A4+Architecting+Scalable+Solutions;%E2%9E%A4+Data+Driven+Intelligence;%E2%9E%A4+Laravel+%26+Vue+Architect" alt="Typing SVG" />
-  <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,A" alt="github trophies" height="90"/>
+  <!-- TYPING LOCAL: Placeholder: assets/typing.png -->
+  <img src="assets/typing.png" width="750" alt="Technical Skills Typing" />
+</p>
+
+<!-- ENGINEERING STATUS BAR: Dinámica, limpia y profesional -->
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Active-7aa2f7?style=for-the-badge&logo=opsgenie&logoColor=white" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-bb9af7?style=for-the-badge&logo=diagrams.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Core-Laravel/Vue-f7768e?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data-Analytic-c3e88d?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 <!-- SECTION: PROFESSIONAL SYNOPSIS -->
 <table align="center" border="0">
