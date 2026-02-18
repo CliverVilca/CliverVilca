@@ -4,12 +4,12 @@
   THEME: TOKYONIGHT DARK / GLASSMORPHISM
 -->
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=CLIVER%20VILCA&fontSize=65&animation=fadeIn&fontAlignY=40&desc=%F0%9D%95%BC%F0%9D%96%B4%F0%9D%96%BA%F0%9D%97%85%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%AE%F0%9D%97%85%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%B0%F0%9D%97%81%F0%9D%96%BA%F0%9D%97%81%F0%9D%97%8B%F0%9D%97%82%F0%9D%96%BA%20%F0%9D%96%B5%F0%9D%96%BA%F0%9D%97%8C%F0%9D%96%B4%F0%9D%96%B7&descAlignY=62&descSize=16&fontColor=7aa2f7&font=Outfit" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=spirit&color=gradient&height=200&section=header&text=CLIVER%20VILCA&fontSize=75&animation=fadeIn&fontAlignY=40&desc=%F0%9D%95%BC%F0%9D%96%B4%F0%9D%96%BA%F0%9D%97%85%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%AE%F0%9D%97%85%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%B0%F0%9D%97%81%F0%9D%96%BA%F0%9D%97%81%F0%9D%97%8B%F0%9D%97%82%F0%9D%96%BA%20%F0%9D%96%B5%F0%9D%96%BA%F0%9D%97%8C%F0%9D%96%B4%F0%9D%96%B7&descAlignY=62&descSize=18&fontColor=ffffff&font=Outfit" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=35&lines=%E2%9E%A4+Architecting+Scalable+Solutions;%E2%9E%A4+Statistical+Data+Science;%E2%9E%A4+Laravel+%26+Vue+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=750&height=40&lines=%E2%9E%A4+Architecting+Scalable+Solutions;%E2%9E%A4+Data+Driven+Intelligence;%E2%9E%A4+Laravel+%26+Vue+Architect" alt="Typing SVG" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,A" alt="github trophies" height="100"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,A" alt="github trophies" height="90"/>
 </p>
 <!-- SECTION: PROFESSIONAL SYNOPSIS -->
 <table align="center" border="0">
