@@ -4,15 +4,13 @@
   THEME: TOKYONIGHT DARK / GLASSMORPHISM
 -->
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=CLIVER%20VILCA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%E2%9A%9B%20Statistical%20Engineer%20%7C%20Full%20Stack%20Architect%20%E2%80%A2%20Data%20Scientist%20%E2%9A%9B&descAlignY=51&descSize=21&fontColor=7aa2f7&font=Outfit" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=180&section=header&text=CLIVER%20VILCA&fontSize=65&animation=fadeIn&fontAlignY=40&desc=%F0%9D%95%BC%F0%9D%96%B4%F0%9D%96%BA%F0%9D%97%85%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%AE%F0%9D%97%85%F0%9D%96%BA%F0%9D%97%8B%F0%9D%97%82%F0%9D%97%8D%F0%9D%97%8D%F0%9D%97%8C%20%E2%80%A2%20%F0%9D%95%B0%F0%9D%97%81%F0%9D%96%BA%F0%9D%97%81%F0%9D%97%8B%F0%9D%97%82%F0%9D%96%BA%20%F0%9D%96%B5%F0%9D%96%BA%F0%9D%97%8C%F0%9D%96%B4%F0%9D%96%B7&descAlignY=62&descSize=16&fontColor=7aa2f7&font=Outfit" width="100%" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=7aa2f7&center=true&vCenter=true&width=800&lines=%E2%9E%A4+Architecting+Scalable+Enterprise+Solutions;%E2%9E%A4+Advanced+Statistical+Modeling+%26+Analysis;%E2%9E%A4+Expert+in+Laravel+Ecosystem+%26+Vue.js;%E2%9E%A4+Performance+Optimization+%26+Clean+Code;%E2%9E%A4+Turning+Data+Into+Actionable+Intelligence" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&height=35&lines=%E2%9E%A4+Architecting+Scalable+Solutions;%E2%9E%A4+Statistical+Data+Science;%E2%9E%A4+Laravel+%26+Vue+Expert" alt="Typing SVG" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=10&column=7&rank=SSS,SS,S,A" alt="github trophies" height="100"/>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=15&column=7" alt="github trophies" />
-</p>
-<br/>
 <!-- SECTION: PROFESSIONAL SYNOPSIS -->
 <table align="center" border="0">
   <tr>
