@@ -19,7 +19,7 @@
 <table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌  ����𝖊𝖘𝖙𝖔</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Engineering Manifesto</h3>
       <p align="justify">
         Soy un <b>Ingeniero Estadístico e Informático</b> especializado en el desarrollo de arquitecturas de software de alta complejidad. Mi propuesta de valor radica en la intersección de la <b>lógica matemática</b> y la <b>ingeniería de software</b>.
       </p>
@@ -42,7 +42,7 @@
 </table>
 <br/>
 <!-- SECTION: CORE PILLARS -->
-<h3 align="center">𝕮𝖔𝖗𝖊  𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌  𝕻𝖎𝖑𝖑𝖆𝖗𝖘</h3>
+<h3 align="center">🛡️ Core Engineering Pillars</h3>
 <table align="center">
   <tr>
     <td width="50%">
@@ -61,7 +61,7 @@
 </table>
 <br/>
 <!-- SECTION: TECHNICAL STACK -->
-<h3 align="center">𝕿𝖊𝖈𝖍𝖓𝖎𝖈𝖆𝖑  𝕰𝖈𝖔𝖘𝖞𝖘𝖙𝖊𝖒</h3>
+<h3 align="center">🛠️ Technical Ecosystem</h3>
 <table align="center" border="0">
   <tr>
     <td align="center" width="25%"><b>Backend Logic</b></td>
@@ -86,7 +86,7 @@
 </table>
 <br/>
 <!-- SECTION: PROJECT SHOWCASE (WITH LOCAL ASSETS) -->
-<h3 align="center">𝕸𝖎𝖘𝖘𝖎𝖔𝖓  𝕮𝖗𝖎𝖙𝖎𝖈𝖆𝖑  𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘</h3>
+<h3 align="center">📂 Mission Critical Projects</h3>
 <p align="center">
   <a href="https://github.com/CliverVilca/ACTAS-SEARCH-SYSTEM">
     <img src="assets/actas_preview.png" width="45%" style="border-radius: 10px;" alt="ACTAS System Preview" />
@@ -105,7 +105,7 @@
 </p>
 <br/>
 <!-- SECTION: ANALYTICS -->
-<h3 align="center">📈 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌  𝖁𝖊𝖑𝖔𝖈𝖎𝖙𝖞</h3>
+<h3 align="center">📈 Engineering Velocity</h3>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CliverVilca&theme=tokyonight&area=true&hide_border=true&custom_title=Development+Activity+Flow&color=7aa2f7" width="100%" />
 </p>
@@ -115,13 +115,13 @@
 </p>
 <br/>
 <!-- SECTION: SNAKE (Nota: requiere GitHub Action para funcionar) -->
-<h3 align="center">🐍 𝕾𝖞𝖘𝖙𝖊𝖒  𝕰𝖛𝖔𝖑𝖚𝖙𝖎𝖔𝖓  𝕲𝖗𝖎𝖉</h3>
+<h3 align="center">🐍 System Evolution Grid</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/CliverVilca/CliverVilca/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </p>
 <br/>
 <!-- SECTION: NETWORKING -->
-<h3 align="center">🤝 𝕻𝖗𝖔𝖋𝖊𝖘𝖘𝖎𝖔𝖓𝖆𝖑  𝕹𝖊𝖙𝖜𝖔𝖗𝖐𝖎𝖓𝖌</h3>
+<h3 align="center">🤝 Professional Networking</h3>
 <p align="center">
   <a href="https://linkedin.com/in/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
@@ -136,5 +136,5 @@
 </p>
 <p align="center">
   <i>"In God we trust, all others must bring data."</i> <br/>
-  <b>𝕺𝖕𝖙𝖎𝖒𝖎𝖟𝖆𝖉𝖔  𝖕𝖔𝖗  𝕮𝖑𝖎𝖛𝖊𝖗  𝖁𝖎𝖑𝖈𝖆  |  𝕴𝖓𝖌𝖊𝖓𝖎𝖊𝖗𝖔  𝕰𝖘𝖙𝖆𝖉𝖎𝖘𝖙𝖎𝖈𝖔  𝖊  𝕴𝖓𝖋𝖔𝖗𝖒𝖆𝖙𝖎𝖈𝖔</b>
+  <b>Optimizado por Cliver Vilca | Ingeniero Estadístico e Informático</b>
 </p>
