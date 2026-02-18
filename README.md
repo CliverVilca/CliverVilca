@@ -8,11 +8,6 @@
   <img src="assets/banner.png" width="100%" alt="Cliver Vilca Banner" />
 </p>
 
-<p align="center">
-  <!-- TYPING LOCAL: Placeholder: assets/typing.png -->
-  <img src="assets/typing.png" width="750" alt="Technical Skills Typing" />
-</p>
-
 <!-- ENGINEERING STATUS BAR: Dinámica, limpia y profesional -->
 <p align="center">
   <img src="https://img.shields.io/badge/System-Active-7aa2f7?style=for-the-badge&logo=opsgenie&logoColor=white" />
