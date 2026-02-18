@@ -1,70 +1,122 @@
+<!-- HEADER SECTION -->
 # <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=180&section=header&text=Cliver%20Vilca&fontSize=70&animation=fadeIn&fontAlignY=40&desc=Ingeniero%20Estad%C3%ADstico%20e%20Inform%C3%A1tico%20|%20Software%20Architect&descAlignY=62&descSize=20&fontColor=c0caf5&font=Outfit" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=300&section=header&text=CLIVER%20VILCA&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Statistical%20Architect%20%E2%80%A2%20Data%20Scientist&descAlignY=51&descSize=20&fontColor=7aa2f7&font=Outfit" width="100%" />
 </p>
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7aa2f7&center=true&vCenter=true&width=700&lines=Arquitectura+de+Sistemas+Escalables;Ingenier%C3%ADa+de+Datos+y+An%C3%A1lisis+Estad%C3%ADstico;Especialista+en+Ecosistema+Laravel+y+Vue.js;Desarrollo+de+Soluciones+de+Alto+Impacto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=bb9af7&center=true&vCenter=true&width=750&lines=Solving+Complex+Logic+with+Mathematical+Precision;Expert+in+Laravel+Ecosystem+%26+Vue.js;Building+Scalable+Cloud+Architectures;Data+Analysis+%26+Statistical+Modeling;Optimization+is+my+Passion" alt="Typing SVG" />
 </p>
----
-### 🛠️ Perfil Profesional
-<table align="center" border="0">
+<!-- TROPHY SECTION -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CliverVilca&theme=tokyonight&no-bg=true&margin-w=15&column=7&rank=-C" alt="github trophies" />
+</p>
+<br/>
+<!-- MAIN PROFILE TABLE -->
+<table align="center">
   <tr>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> Mission Statement</h2>
       <p align="justify">
-        Como <b>Ingeniero Estadístico e Informático</b>, mi enfoque combina el rigor del análisis de datos con la innovación en el desarrollo de software. Me especializo en diseñar y desplegar <b>arquitecturas Full Stack</b> robustas, optimizadas para la escalabilidad y el rendimiento.
-      </p>
-      <p align="justify">
-        Mi experiencia abarca desde la gestión de bases de datos complejas hasta la creación de interfaces de usuario reactivas, siempre bajo principios de <b>Clean Code</b> y patrones de diseño (SOLID, DDD).
+        Soy un <b>Ingeniero Estadístico e Informático</b> con una mentalidad orientada a la eficiencia y el alto rendimiento. Mi enfoque no se limita a "picar código", sino a diseñar <b>ecosistemas digitales escalables</b> donde la lógica matemática y la arquitectura de software convergen para resolver problemas reales del mundo empresarial.
       </p>
       <br/>
       <div align="left">
-        <img src="https://img.shields.io/badge/Stack-Full_Stack_Expert-24283b?style=flat-square&logo=laravel&logoColor=7aa2f7" />
-        <img src="https://img.shields.io/badge/Data-Statistical_Engineering-24283b?style=flat-square&logo=python&logoColor=bb9af7" />
-        <img src="https://img.shields.io/badge/Focus-Scalability_%26_Performance-24283b?style=flat-square&logo=speedtest&logoColor=f7768e" />
+        <img src="https://img.shields.io/badge/Status-Engineering--Innovation-7aa2f7?style=flat-square&logo=github" />
+        <img src="https://img.shields.io/badge/Focus-High--Performance--Scalability-f7768e?style=flat-square&logo=speedtest" />
+        <img src="https://img.shields.io/badge/Data-Statistical--Modelling-bb9af7?style=flat-square&logo=python" />
       </div>
+      <br/>
+      <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="30" /> Core Engineering Principles</h2>
+      <ul>
+        <li><b>SOLID & Clean Code:</b> Código legible, mantenible y testeable.</li>
+        <li><b>DDD & Architecture:</b> Diseño guiado por el dominio para sistemas complejos.</li>
+        <li><b>Statistical Insights:</b> Decisiones técnicas basadas en el análisis de datos.</li>
+        <li><b>Performance First:</b> Optimización extrema de backends en Laravel.</li>
+      </ul>
     </td>
-    <td width="35%" valign="center" align="right">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliverVilca&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&bg_color=1a1b26" width="300" />
+    <td width="40%" valign="center" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliverVilca&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&bg_color=1a1b26" width="350px"/>
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=CliverVilca&label=PROFILE%20AUDITS&color=7aa2f7&style=flat-square" />
     </td>
   </tr>
 </table>
----
-### 💻 Arsenal Tecnológico
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,vue,js,ts,python,nodejs,mysql,docker,git,linux,aws,vscode,postman,tailwind,mongodb,react,redis,bash,figma&perline=10" />
-</p>
----
-### 📂 Sistemas y Proyectos de Ingeniería
+<br/>
+<!-- TECHNOLOGY STACK CATEGORIZED -->
+<h2 align="center">🛠️ Technical Ecosystem</h2>
+<table align="center">
+  <tr>
+    <td align="center" width="25%"><b>Backend Engineering</b></td>
+    <td align="center" width="25%"><b>Frontend Architecture</b></td>
+    <td align="center" width="25%"><b>Data Science</b></td>
+    <td align="center" width="25%"><b>Infrastructure</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,mysql,mongodb,redis,bash" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,vue,react,tailwind,bootstrap,figma" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python,pytorch,opencv,powershell,sqlite" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,postman,vscode,webstorm" />
+    </td>
+  </tr>
+</table>
+<br/>
+<!-- FEATURED PROJECTS SHOWCASE -->
+<h2 align="center">📂 High-Impact Repository Showcase</h2>
 <p align="center">
   <a href="https://github.com/CliverVilca/ACTAS-SEARCH-SYSTEM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=ACTAS-SEARCH-SYSTEM&theme=tokyonight&show_owner=false&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=ACTAS-SEARCH-SYSTEM&theme=tokyonight&show_owner=false&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" />
   </a>
-  &nbsp;
   <a href="https://github.com/CliverVilca/Reconocimiento-Placas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=Reconocimiento-Placas&theme=tokyonight&show_owner=false&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=Reconocimiento-Placas&theme=tokyonight&show_owner=false&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" />
   </a>
 </p>
 <p align="center">
-  <i>Especializado en sistemas de gestión avanzada y visión computacional aplicados a la productividad.</i>
+  <a href="https://github.com/CliverVilca/LxWebSocket">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=LxWebSocket&theme=tokyonight&show_owner=false&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" />
+  </a>
+  <a href="https://github.com/CliverVilca/laravel-easy-permissions">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=laravel-easy-permissions&theme=tokyonight&show_owner=false&title_color=7aa2f7&icon_color=bb9af7&bg_color=1a1b26" />
+  </a>
 </p>
----
-### 📊 Métricas de Productividad y Análisis de Código
+<br/>
+<!-- PRODUCTIVITY ANALYSIS -->
+<h2 align="center">📈 Engineering Velocity & Intelligence</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CliverVilca&theme=tokyonight&area=true&hide_border=true&custom_title=Flujo+de+Desarrollo&color=7aa2f7" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CliverVilca&theme=tokyonight&area=true&hide_border=true&custom_title=Full+Development+Flow&color=7aa2f7" width="100%" />
 </p>
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=CliverVilca&show_icons=true&theme=tokyonight&hide_border=true&title_color=7aa2f7&icon_color=bb9af7&text_color=9aa5ce&bg_color=1a1b26" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=CliverVilca&theme=tokyonight&hide_border=true&stroke=7aa2f7&ring=bb9af7&fire=7aa2f7&background=1a1b26" />
 </p>
----
-### 📫 Conexión Profesional
+<br/>
+<!-- SNAKE ANIMATION SECTION -->
+<h2 align="center">🐍 Project Evolution Grid</h2>
 <p align="center">
-  <a href="https://linkedin.com/in/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:cliver.vilca@ejemplo.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/CliverVilca/CliverVilca/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</p>
+<br/>
+<!-- CONNECT SECTION -->
+<h2 align="center">🤝 Professional Networking</h2>
+<p align="center">
+  <a href="https://linkedin.com/in/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tu-correo@ejemplo.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="55" /></a>
+</p>
+<br/>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=120&section=footer&text=QUALITY%20CODE%20%E2%80%A2%20SCALABLE%20SOLUTIONS%20%E2%80%A2%20DATA%20DRIVEN&fontSize=20&fontAlignY=55&fontColor=ffffff&font=Outfit" width="100%"/>
 </p>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CliverVilca&label=Auditor%C3%ADa+de+Perfil&color=7aa2f7&style=flat-square" />
-</p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=80&section=footer&text=Calidad%20•%20Innovaci%C3%B3n%20•%20Escalabilidad&fontSize=18&fontAlignY=55&fontColor=ffffff&font=Outfit" width="100%"/>
+  <i>"In God we trust, all others must bring data."</i> <br/>
+  <b>Optimizado por Cliver Vilca | Ingeniero Estadístico e Informático</b>
 </p>
