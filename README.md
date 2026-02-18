@@ -15,22 +15,22 @@
 <table align="center" border="0">
   <tr>
     <td width="60%" valign="top">
-      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌  𝖕𝖗𝖔𝖋𝖎𝖑𝖊</h3>
+      <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="30" /> 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌  ����𝖊𝖘𝖙𝖔</h3>
       <p align="justify">
-        Soy un <b>Ingeniero Estadístico e Informático</b> con una mentalidad orientada a la eficiencia y el alto rendimiento. Mi enfoque trasciende el desarrollo convencional: integro la <b>lógica matemática</b> con la <b>arquitectura de software</b> para construir ecosistemas digitales resilientes.
+        Soy un <b>Ingeniero Estadístico e Informático</b> especializado en el desarrollo de arquitecturas de software de alta complejidad. Mi propuesta de valor radica en la intersección de la <b>lógica matemática</b> y la <b>ingeniería de software</b>.
       </p>
       <p align="justify">
-        Especializado en el diseño de sistemas críticos, gestión de grandes volúmenes de datos y optimización de infraestructuras en la nube. Mi objetivo es transformar la complejidad técnica en soluciones elegantes y escalables.
+        Diseño soluciones <b>Full Stack</b> utilizando el ecosistema <b>Laravel</b> y <b>Vue.js</b>, garantizando siempre la integridad de los datos, la seguridad del sistema y un rendimiento óptimo.
       </p>
       <br/>
       <div align="left">
-        <img src="https://img.shields.io/badge/Status-Innovating%20Systems-7aa2f7?style=for-the-badge&logo=github" />
-        <img src="https://img.shields.io/badge/Focus-Data%20Engineering-bb9af7?style=for-the-badge&logo=python" />
-        <img src="https://img.shields.io/badge/Stack-High%20Performance-f7768e?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Expert-Full%20Stack-7aa2f7?style=for-the-badge&logo=laravel" />
+        <img src="https://img.shields.io/badge/Data-Engineering-bb9af7?style=for-the-badge&logo=python" />
       </div>
     </td>
     <td width="40%" valign="center" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CliverVilca&layout=compact&theme=tokyonight&hide_border=true&title_color=7aa2f7&text_color=9aa5ce&bg_color=1a1b26" width="350px"/>
+      <!-- IMAGEN LOCAL: Sube tu foto profesional o avatar tech a assets/profile_tech.png -->
+      <img src="assets/profile_tech.png" width="300" style="border-radius: 15px; border: 2px solid #1a1b26; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" alt="Cliver Vilca - Profile" />
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=CliverVilca&label=PROFILE%20TRAFFIC&color=7aa2f7&style=flat-square" />
     </td>
@@ -56,14 +56,14 @@
   </tr>
 </table>
 <br/>
-<!-- SECTION: TECHNOLOGY STACK (RE-ESTRUCTURADO) -->
-<h3 align="center">🛠️ 𝕿𝖊𝖈𝖍𝖓𝖎𝖈𝖆𝖑  𝕰𝖈𝖔𝖘𝖞𝖘𝖙𝖊𝖒</h3>
+<!-- SECTION: TECHNICAL STACK -->
+<h3 align="center">𝕿𝖊𝖈𝖍𝖓𝖎𝖈𝖆𝖑  𝕰𝖈𝖔𝖘𝖞𝖘𝖙𝖊𝖒</h3>
 <table align="center" border="0">
   <tr>
-    <td align="center" width="25%"><b>📡 Backend</b></td>
-    <td align="center" width="25%"><b>🎨 Frontend</b></td>
-    <td align="center" width="25%"><b>📊 Data Science</b></td>
-    <td align="center" width="25%"><b>🛠️ DevOps</b></td>
+    <td align="center" width="25%"><b>Backend Logic</b></td>
+    <td align="center" width="25%"><b>Frontend Design</b></td>
+    <td align="center" width="25%"><b>Data & AI</b></td>
+    <td align="center" width="25%"><b>DevOps & Tools</b></td>
   </tr>
   <tr>
     <td align="center">
@@ -81,22 +81,22 @@
   </tr>
 </table>
 <br/>
-<!-- SECTION: PROJECTS (CORREGIDO) -->
-<h3 align="center">📂 𝕸𝖎𝖘𝖘𝖎𝖔𝖓  𝕮𝖗𝖎𝖙𝖎𝖈𝖆𝖑  𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘</h3>
+<!-- SECTION: PROJECT SHOWCASE (WITH LOCAL ASSETS) -->
+<h3 align="center">𝕸𝖎𝖘𝖘𝖎𝖔𝖓  𝕮𝖗𝖎𝖙𝖎𝖈𝖆𝖑  𝕻𝖗𝖔𝖏𝖊𝖈𝖙𝖘</h3>
 <p align="center">
   <a href="https://github.com/CliverVilca/ACTAS-SEARCH-SYSTEM">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=ACTAS-SEARCH-SYSTEM&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7" />
+    <img src="assets/actas_preview.png" width="45%" style="border-radius: 10px;" alt="ACTAS System Preview" />
   </a>
   <a href="https://github.com/CliverVilca/Reconocimiento-Placas">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=Reconocimiento-Placas&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7" />
+    <img src="assets/placas_preview.png" width="45%" style="border-radius: 10px;" alt="Reconocimiento Placas Preview" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/CliverVilca/LxWebSocket">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=LxWebSocket&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=LxWebSocket&theme=tokyonight&bg_color=16161e&title_color=7aa2f7&icon_color=7aa2f7" />
   </a>
   <a href="https://github.com/CliverVilca/laravel-easy-permissions">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=laravel-easy-permissions&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&icon_color=7aa2f7" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CliverVilca&repo=laravel-easy-permissions&theme=tokyonight&bg_color=16161e&title_color=7aa2f7&icon_color=7aa2f7" />
   </a>
 </p>
 <br/>
