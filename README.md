@@ -30,7 +30,7 @@
     </td>
     <td width="40%" valign="center" align="center">
       <!-- IMAGEN LOCAL: Sube tu foto profesional o avatar tech a assets/profile_tech.png -->
-      <img src="assets/profile_tech.png" width="300" style="border-radius: 15px; border: 2px solid #1a1b26; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" alt="Cliver Vilca - Profile" />
+      <img src="assets/image copy 5.png" width="300" style="border-radius: 15px; border: 2px solid #1a1b26; box-shadow: 0 10px 20px rgba(0,0,0,0.5);" alt="Cliver Vilca - Profile" />
       <br/><br/>
       <img src="https://komarev.com/ghpvc/?username=CliverVilca&label=PROFILE%20TRAFFIC&color=7aa2f7&style=flat-square" />
     </td>
