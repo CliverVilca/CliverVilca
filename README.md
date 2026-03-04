@@ -125,7 +125,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=linkedin" height="55" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:tu-correo@ejemplo.com" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>
+  <a href="mailto:tu-clvilcat@est.unap.edu.pe" target="blank"><img src="https://skillicons.dev/icons?i=gmail" height="55" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/clivervilca" target="blank"><img src="https://skillicons.dev/icons?i=twitter" height="55" /></a>
 </p>
